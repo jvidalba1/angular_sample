@@ -23,13 +23,23 @@
       name: 'Dodecahedron',
       price: 2,
       description: '...',
-      canPurchase: true
+      canPurchase: true,
+      images: [
+        {
+          full: "oelo.jpeg"
+        }
+      ]
     },
     {
       name: 'Pentagonal Gem',
       price: 5.95,
       description: "...",
-      canPurchase: true
+      canPurchase: true,
+      images: [
+        {
+          full: "oelo2.jpg"
+        }
+      ]
     }
   ]
 
